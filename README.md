@@ -26,7 +26,7 @@ Press Enter
 
 A black window opens.
 
-2) Type This and Press Enter
+2) Type This and Press Enter<br>
 pip install happycli
 
 
@@ -71,4 +71,5 @@ happy
 
 
 Have fun playing HappyCLI! 😊
+
 
